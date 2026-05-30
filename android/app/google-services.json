@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484031389785",
+    "project_id": "crispy-crust-delivery",
+    "storage_bucket": "crispy-crust-delivery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484031389785:android:9dfd3642e04f832e7d1148",
+        "android_client_info": {
+          "package_name": "com.example.fast_food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKj1Nsf1ZLYhN5AzYHGqRgvM-c1LTXvpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
